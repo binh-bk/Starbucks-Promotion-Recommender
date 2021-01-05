@@ -91,6 +91,6 @@ recommend_offers(user_id='new_user')
 
 # Credits:
 - Data was given by Starbucks through Udacity's Data Scientist Nanodegree
-- StackOverflow for coutless searching
+- StackOverflow for countless searching
 
 
