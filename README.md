@@ -11,7 +11,7 @@ analyze simulated data to assess promotion influence on customer and a recommend
 - `portfolio.json`: information about offer such as type, difficulty, rewards, valid period
 - `profile.json`: user information such as age, income, gender, become membership since
 - `transcript.json`: data logs for which offer sent to which person, transaction amount
-- `
+- `offer_summary.json`: a new arrangement of `transcript.json` to approximate amount spent of each offer based its valid period.
 
 # Data Exploration and Analysis
 - Please follow the `Jupyter Notebook` to examine or practice
